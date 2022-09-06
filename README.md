@@ -13,7 +13,7 @@ https://www.linkedin.com/in/thomasrannou/
 
 ### 📝 Liens
 
-- 🧵 [Twitter](https://twitter.com/thomasrannou)
+- 🧵 [Twitter](https://twitter.com/thomas_rannou)
 - 🧵 [LinkedIn](https://linkedin.com/in/thomasrannou)
 - 💻 [GitHub](https://github.com/thomasrannou)
 - 📝 [DEV.to](https://dev.to/thomasrannou)

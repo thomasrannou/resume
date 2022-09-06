@@ -24,9 +24,9 @@ https://workshops.devcongalaxy.io/#/workshops/docker-azure?repo=thomasrannou%2Fc
 
 ### 🏅 Certifications
 
-2021 : Microsoft AZ-303 : Azure Architect Technologies
-2021 : Microsoft AZ-304 : Azure Architect Design
-2020 : Microsoft AZ-900 : Azure Fundamentals
+- 2021 : Microsoft AZ-303 : Azure Architect Technologies
+- 2021 : Microsoft AZ-304 : Azure Architect Design
+- 2020 : Microsoft AZ-900 : Azure Fundamentals
 
-2022 : Microsoft Azure MVP 2022-2023
-2021 : Microsoft Azure MVP 2021-2022
+- 2022 : Microsoft Azure MVP 2022-2023
+- 2021 : Microsoft Azure MVP 2021-2022
